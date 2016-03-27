@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\ProgramFiles\Android\sdk-10_15_16_17_18_19_21_22_23\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\WorkSpace\AndroidStudioProjects\XWeChat\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_162b8ca0d64e1d7c8a0014cb1ee5c7439fcd7f06.jar" />
+    </item>
+    <item
+        jar="D:\WorkSpace\AndroidStudioProjects\XWeChat\app\libs\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="D:\WorkSpace\AndroidStudioProjects\XWeChat\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_c6ecccc62497459cbdaef31237a52a13b1f00662.jar" />
+    </item>
+    <item
+        jar="D:\WorkSpace\AndroidStudioProjects\XWeChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\WorkSpace\AndroidStudioProjects\XWeChat\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_cecc5e32e483c4a75c8716e22c8e1db1f4ee0a71.jar" />
+    </item>
+    <item
+        jar="D:\WorkSpace\AndroidStudioProjects\XWeChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\WorkSpace\AndroidStudioProjects\XWeChat\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_4e747e72160847f307715645971264f3ac6e9951.jar" />
+    </item>
+    <item
+        jar="D:\WorkSpace\AndroidStudioProjects\XWeChat\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\WorkSpace\AndroidStudioProjects\XWeChat\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_2b93266f7f3256875da198589eaa45b30eeb254b.jar" />
+    </item>
+    <item
+        jar="D:\WorkSpace\AndroidStudioProjects\XWeChat\app\libs\libammsdk.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c1f63f70671d69ee38379728e1192db82e289246">
+        <dex dex="D:\WorkSpace\AndroidStudioProjects\XWeChat\app\build\intermediates\pre-dexed\debug\libammsdk_767adbb83336b5b18aa07f82fe0c718055e2ff4a.jar" />
+    </item>
+    <item
+        jar="D:\WorkSpace\AndroidStudioProjects\XWeChat\app\libs\butterknife-5.1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="daf5472b0df6dabaceb6ad755b3812535863965a">
+        <dex dex="D:\WorkSpace\AndroidStudioProjects\XWeChat\app\build\intermediates\pre-dexed\debug\butterknife-5.1.2_7b52ff01b3eaf55895b9f6a88adb185a588e584d.jar" />
+    </item>
+    <item
+        jar="D:\WorkSpace\AndroidStudioProjects\XWeChat\app\libs\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\WorkSpace\AndroidStudioProjects\XWeChat\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_25b49d9890d3094b25b00a27c1e4a9e341f7611d.jar" />
+    </item>
+    <item
+        jar="D:\WorkSpace\AndroidStudioProjects\XWeChat\app\libs\httpclient-4.4.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c8d96f6fd2bcc179c312da33ee670a71188cc60d">
+        <dex dex="D:\WorkSpace\AndroidStudioProjects\XWeChat\app\build\intermediates\pre-dexed\debug\httpclient-4.4.1.1_66301064660fe6939b36cd45c43f33b39b36c5ce.jar" />
+    </item>
+
+</items>

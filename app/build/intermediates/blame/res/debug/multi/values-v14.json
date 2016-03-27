@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 616
+                    }
+                }
+            }
+        ]
+    }
+]

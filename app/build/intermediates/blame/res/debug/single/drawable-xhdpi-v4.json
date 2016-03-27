@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wish_share.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-xhdpi\\wish_share.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wish_word.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-xhdpi\\wish_word.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wish_photo.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-xhdpi\\wish_photo.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wish_default_bg.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-xhdpi\\wish_default_bg.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wish_bg.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-xhdpi\\wish_bg.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wish_logo.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-xhdpi\\wish_logo.png"
+    }
+]

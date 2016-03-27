@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\arc_menu_left_bottom.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\arc_menu_left_bottom.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vdh_item_text.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\vdh_item_text.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_chat_from_msg.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\main_chat_from_msg.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vdh_main_info_layout.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\vdh_main_info_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\previous_activity_main.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\previous_activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_footer_layout.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\refresh_footer_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_loader_grid_item.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\image_loader_grid_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_base_toast.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\view_base_toast.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_error_layout.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\view_error_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenu_activity_main.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\slidingmenu_activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\arc_menu_activity_main.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\arc_menu_activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_chat_send_msg.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\main_chat_send_msg.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\previous_top2.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\previous_top2.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_item_layout.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\refresh_item_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aidl_activity_main.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\aidl_activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ripple_activity_main.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\ripple_activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vdh_common_top_bar_layout.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\vdh_common_top_bar_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_loader_list_dir.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\image_loader_list_dir.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_bar_activity.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\navigation_bar_activity.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vdh_four_frag_layout.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\vdh_four_frag_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawaer_activity_main_fragment.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\drawaer_activity_main_fragment.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_adapter_list_item.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\common_adapter_list_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vdh_two_frag_layout.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\vdh_two_frag_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_toast.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\view_toast.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_adapter_activity_main2.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\common_adapter_activity_main2.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawaer_activity_main.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\drawaer_activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_loader_list_dir_item.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\image_loader_list_dir_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\network_asynchttp_activity_main.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\network_asynchttp_activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ripple_activity_main2.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\ripple_activity_main2.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\previous_tab03.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\previous_tab03.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vdh_three_frag_layout.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\vdh_three_frag_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\previous_tab01.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\previous_tab01.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_adapter_activity_main.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\common_adapter_activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\previous_top1.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\previous_top1.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vdh_one_frag_layout.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\vdh_one_frag_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\arc_menu_right_bottom.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\arc_menu_right_bottom.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_activity_main.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\tab_activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indexable_list_activity_main.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\indexable_list_activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\previous_tab02.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\previous_tab02.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_activity_main.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\refresh_activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_loader_activity_main.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\image_loader_activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_single_listview.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\item_single_listview.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wish_activity_main.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\wish_activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vdh_view_grag_helper_layout.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\vdh_view_grag_helper_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_header_layout.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\refresh_header_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\volley_activity_main.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\volley_activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vdh_activity_main.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\vdh_activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenu_left_menu.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\layout\\slidingmenu_left_menu.xml"
+    }
+]

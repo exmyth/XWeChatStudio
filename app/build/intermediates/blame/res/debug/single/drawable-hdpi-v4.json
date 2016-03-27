@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_pressed.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_settings_normal.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\tab_settings_normal.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_icon.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\actionbar_icon.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir_choose.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\dir_choose.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\error_image.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\error_image.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\picture_unselected.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\picture_unselected.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_3.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\img_3.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_blue_pressed.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\btn_blue_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_button_bg_green2_normal.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\refresh_button_bg_green2_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_blue_normal.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\btn_blue_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\composer_with.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\composer_with.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_0.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\loading_0.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_topimg.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\refresh_topimg.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_normal.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_5.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\loading_5.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_image.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\default_image.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\composer_thought.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\composer_thought.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_h_line.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\refresh_h_line.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_dir.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\pic_dir.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\composer_button.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\composer_button.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_to_refresh_arrow.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\pull_to_refresh_arrow.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_3.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\loading_3.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_button_bg_green2_pressed.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\refresh_button_bg_green2_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pictures_no.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\pictures_no.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_normal.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_address_normal.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\tab_address_normal.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\renma.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\renma.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_photo.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\icon_photo.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_test_icon.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\refresh_test_icon.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qq.jpg",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\qq.jpg"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_focused.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_focused.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vdh_header_back.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\vdh_header_back.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_more_icon.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\actionbar_more_icon.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_7.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\loading_7.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_4.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\loading_4.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_1.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\img_1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_weixin_normal.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\tab_weixin_normal.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_6.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\loading_6.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_2.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\loading_2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_5.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\img_5.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_find_frd_normal.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\tab_find_frd_normal.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_clear_input_normal.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\btn_clear_input_normal.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_2.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\img_2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textfield_selected.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\textfield_selected.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top1_bg.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\top1_bg.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_add_icon.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\actionbar_add_icon.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_pressed.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tabline.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\tabline.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\composer_camera.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\composer_camera.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_focused.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_focused.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_app_item_bg.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\refresh_app_item_bg.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vdh_shadow.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\vdh_shadow.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiaohei.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\xiaohei.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vdh_ic_main_left_bg.jpg",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\vdh_ic_main_left_bg.jpg"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\composer_icn_plus.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\composer_icn_plus.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_frame_background.jpg",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\img_frame_background.jpg"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\composer_music.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\composer_music.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_clear_input_pressed.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\btn_clear_input_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_4.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\img_4.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_background.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\toast_background.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_1.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\loading_1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\composer_place.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\composer_place.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pagefailed_bg.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\pagefailed_bg.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textfield_normal.9.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\textfield_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pictures_selected.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\pictures_selected.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\composer_sleep.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\composer_sleep.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_search_icon.png",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\drawable-hdpi\\actionbar_search_icon.png"
+    }
+]

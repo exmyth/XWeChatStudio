@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in.xml",
+        "source": "D:\\WorkSpace\\AndroidStudioProjects\\XWeChat\\app\\src\\main\\res\\anim\\slide_in.xml"
+    }
+]

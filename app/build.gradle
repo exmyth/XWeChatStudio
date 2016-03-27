@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.exmyth.wechat"
+        minSdkVersion 11
+        targetSdkVersion 15
+
+        testApplicationId "com.exmyth.wechat.test"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:21.0.3'
+    compile files('libs/android-async-http-1.4.9.jar')
+    compile files('libs/butterknife-5.1.2.jar')
+    compile files('libs/httpclient-4.4.1.1.jar')
+    compile files('libs/jsr305-3.0.0.jar')
+    compile files('libs/libammsdk.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+}
